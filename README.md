@@ -4,7 +4,7 @@
 
 ## 在线演示
 
-[点击访问在线演示](https://你的用户名.github.io/image-compressor)
+[点击访问在线演示](https://xyuyuxix.github.io/image-compressor)
 
 ## 功能特点
 
@@ -19,7 +19,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/你的用户名/image-compressor.git
+git clone https://github.com/xyuyuxix/image-compressor.git
 ```
 
 2. 打开项目
